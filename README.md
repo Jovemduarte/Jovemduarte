@@ -1,15 +1,19 @@
-Olá Me Chamo Michel bispo
-<!--
-**Jovemduarte/Jovemduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Michel Bispo 👋
 
-Here are some ideas to get you started:
+🚀 Estou começando minha jornada na programação, com foco em desenvolvimento **Backend**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🌱 Atualmente
+- Aprendendo os fundamentos de backend
+- Buscando meus primeiros projetos práticos
+
+## 📫 Como me encontrar
+- 📧 pbmarlon14@gmail.com
+- 📸 [Instagram](https://www.instagram.com/euduartesz/)
+
+## 📊 Estatísticas do GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=Jovemduarte&show_icons=true&theme=radical)
