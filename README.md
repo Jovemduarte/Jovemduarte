@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=MICHEL%20BISPO&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=🚀%20Astronauta%20em%20treinamento%20no%20mundo%20do%20código&descAlignY=55&descColor=AEEFFF)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=AEEFFF&center=true&vCenter=true&width=600&lines=Explorando+o+universo+da+programação+🌌;Missão+atual%3A+dominar+Backend;Tripulante%3A+Python+%7C+HTML+%7C+CSS" alt="Typing SVG" />
+
 
 </div>
 
